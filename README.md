@@ -8,7 +8,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://twitter.com/damwaingames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="damwaingames" height="30" width="40" /></a>
+<a href="https://dice.camp/@damwaingames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mastodon.svg" alt="damwaingames" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashley-griffiths-296099155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashley-griffiths-296099155" height="30" width="40" /></a>
 </p>
 
