@@ -2,8 +2,9 @@
 ### A senior software engineer from the UK.
 
 - 🔭 I’m currently working on [True North Data Platform](https://www.corefiling.com/solution-integration/)
-- 🌱 I’m currently learning **LaTeX**
+- 🌱 I’m currently learning **Nim**
 - ⚡ Fun fact **I am a classically trained bass-baritone singer, and choir director for a local musical theatre choir**
+- 🎲 Side projects **I write and publish structured freeform roleplaying games that focus on real emotions, melodrama and a kitchen sink realism**
 - 😄 Pronouns: any/all 🏳️‍🌈 I am transfemme agender and alloromantic asexual
 
 ### Connect with me:
