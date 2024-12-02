@@ -9,7 +9,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://dice.camp/@damwaingames" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-icon.svg" alt="@damwaingames on dice.camp" height="30" width="40" /></a>
+<a href="https://bsky.app/profile/damwaingames.itch.io" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/bluesky-1.svg" alt="@damwaingames.itch.io on Bluesky" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alyssa-griffiths-296099155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alyssa Griffiths on LinkedIn" height="30" width="40" /></a>
 <a href="https://damwaingames.itch.io/" target="blank"><img align="center" src="https://static.itch.io/images/app-icon.svg" alt="Damwain Games itch.io page" height="30" width="40" /></a>
 </p>
