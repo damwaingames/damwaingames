@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Looking for a Job, my Linked-In is below.
 - 🌱 I’m currently learning **Nim**
-- ⚡ Fun fact **I am a classically trained bass-baritone singer, and choir director for a local musical theatre choir**
+- ⚡ Fun fact **I am a classically trained singer, and choir director for a local musical theatre choir**
 - 🎲 Side projects **I write and publish structured freeform roleplaying games that focus on real emotions, melodrama and a kitchen sink realism**
 - 😄 Pronouns: She/They 🏳️‍⚧️🏳️‍🌈 I am a transfemme alloromantic asexual. [Full Details](https://en.pronouns.page/@damwaingames)
 
